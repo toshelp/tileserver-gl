@@ -1,0 +1,4 @@
+[submodule "mapbox-gl-native-node"]
+	path = mapbox-gl-native-node
+	url = git@github.com:toshelp/mapbox-gl-native-node.git
+	branch = arm64_build
